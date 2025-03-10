@@ -7,9 +7,14 @@ int main()
     int b = 18;
     int sum, difference, product, quotient, remainder;
 
+
   
     sum = a + b;
     difference = a - b;
+  
+    sum = b - a;
+    difference = b + a;
+
     product = a * b;
     quotient = b / a;
     remainder = b % a;
