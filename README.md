@@ -1,19 +1,20 @@
 #include <iostream>
-
-int main() {
+#include<conio.h>
+int main() 
+{
 
     int a = 10;
     int b = 15;
     int sum, difference, product, quotient, remainder;
 
-    // Perform arithmetic operations
+  
     sum = a + b;
     difference = a - b;
     product = a * b;
     quotient = b / a;
     remainder = b % a;
 
-    // Output the results
+  
     std::cout << "a = " << a << std::endl;
     std::cout << "b = " << b << std::endl;
     std::cout << "Sum: " << sum << std::endl;
