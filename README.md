@@ -4,7 +4,7 @@ int main()
 {
 
     int a = 10;
-    int b = 15;
+    int b = 18;
     int sum, difference, product, quotient, remainder;
 
   
