@@ -3,8 +3,15 @@
 int main() 
 {
 
+
+int main() {
+    // Declare integer variables
+    int a = 10;
+    int b = 20;
+
     int a = 10;
     int b = 18;
+
     int sum, difference, product, quotient, remainder;
 
 
