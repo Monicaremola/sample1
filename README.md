@@ -7,8 +7,8 @@ int main() {
     int sum, difference, product, quotient, remainder;
 
     // Perform arithmetic operations
-    sum = a + b;
-    difference = a - b;
+    sum = b + a;
+    difference = b - a;
     product = a * b;
     quotient = b / a;
     remainder = b % a;
